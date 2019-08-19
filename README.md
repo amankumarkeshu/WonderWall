@@ -8,6 +8,7 @@ This is a wallpaper searching website. It uses the pixerbay's API to search for 
      https://github.com/amankumarkeshu/WonderWall.git
 
 2. Install required dependencies
+
   $ npm install
 
 3. Run the server
