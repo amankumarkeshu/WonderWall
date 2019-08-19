@@ -4,13 +4,15 @@ This is a wallpaper searching website. It uses the pixerbay's API to search for 
 # GETTING STARTED
 
 1. Clone the directory or download the directory as a zip file.
-https://github.com/amankumarkeshu/WonderWall.git
+
+  https://github.com/amankumarkeshu/WonderWall.git
 
 2. Install required dependencies.
-$ npm install
+  $ npm install
 
 3. Run the server
-$ node app.js
+  $ node app.js
 
 4.Go to localhost:3000.
+
 
