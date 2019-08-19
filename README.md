@@ -5,7 +5,7 @@ This is a wallpaper searching website. It uses the pixerbay's API to search for 
 
 1. Clone the directory or download the directory as a zip file.
 
-  https://github.com/amankumarkeshu/WonderWall.git
+     https://github.com/amankumarkeshu/WonderWall.git
 
 2. Install required dependencies.
   $ npm install
@@ -13,6 +13,6 @@ This is a wallpaper searching website. It uses the pixerbay's API to search for 
 3. Run the server
   $ node app.js
 
-4.Go to localhost:3000.
+  4.Go to localhost:3000.
 
 
