@@ -7,12 +7,13 @@ This is a wallpaper searching website. It uses the pixerbay's API to search for 
 
      https://github.com/amankumarkeshu/WonderWall.git
 
-2. Install required dependencies.
+2. Install required dependencies
   $ npm install
 
-3. Run the server.
+3. Run the server
+
   $ node app.js
   
-4 . Go to localhost:3000.
+4. Go to localhost:3000
 
 
