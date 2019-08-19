@@ -13,6 +13,6 @@ This is a wallpaper searching website. It uses the pixerbay's API to search for 
 3. Run the server.
   $ node app.js
   
-  4.Go to localhost:3000.
+4 . Go to localhost:3000.
 
 
