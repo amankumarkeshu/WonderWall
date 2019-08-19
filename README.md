@@ -9,7 +9,7 @@ This is a wallpaper searching website. It uses the pixerbay's API to search for 
 
 2. Install required dependencies
 
-  $ npm install
+      $ npm install
 
 3. Run the server
 
